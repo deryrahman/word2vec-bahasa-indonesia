@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+model/*.model*
+data/*.xml.bz2
+data/*.txt

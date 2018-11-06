@@ -31,7 +31,7 @@ optional arguments:
 ```
 
 ## Model
-You can use a trained model on the folder model
+You can use a trained model on the folder model or download directly from [my drive](https://drive.google.com/drive/u/0/folders/1Sz_8Derx4DjoelgVxCLpOGr8UvpUEqJ7)
 
 ---
 

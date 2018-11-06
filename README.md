@@ -35,6 +35,9 @@ You can use a trained model on the folder model
 
 ---
 
+## References
+[Medium - diekanugraha](https://medium.com/@diekanugraha/membuat-model-word2vec-bahasa-indonesia-dari-wikipedia-menggunakan-gensim-e5745b98714d)
+
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).

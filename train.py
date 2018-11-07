@@ -4,6 +4,7 @@ import os.path
 import requests
 import argparse
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+import sys
 
 def download(link, file_name):
     with open(file_name, "wb") as f:
@@ -85,7 +86,7 @@ if __name__ == '__main__':
                         help='path for dump data')
     parser.add_argument('--dim', type=int, default=100,
                         help='embedding size')
-    parser.add_argument('--stem', default=False, type=lambda x: (str(x).lower() == 'true')
+    parser.add_argument('--stem', default=False, type=lambda x: (str(x).lower() == 'true'),
                         help='use stemmer or not. (default false)')
     args = parser.parse_args()
     main(args)

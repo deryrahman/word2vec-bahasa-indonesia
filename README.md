@@ -30,8 +30,10 @@ optional arguments:
   --stem STEM                       use stemmer or not. (default false)
 ```
 
-## Model
-You can use a trained model on the folder model or download directly from [my drive](https://drive.google.com/drive/u/0/folders/1Sz_8Derx4DjoelgVxCLpOGr8UvpUEqJ7)
+## Use Pre-Trained Model
+You can use a trained model on the folder model or download directly from [my drive](https://drive.google.com/drive/u/0/folders/1Sz_8Derx4DjoelgVxCLpOGr8UvpUEqJ7). Extracted on model folder.
+
+You can use `example.py` to get a quick insight how to use the model. Please look on [gensim documentation](https://radimrehurek.com/gensim/auto_examples/index.html) as a reference.
 
 ---
 
